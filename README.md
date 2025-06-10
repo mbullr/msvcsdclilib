@@ -23,6 +23,8 @@
   This port was made with Visual Studio 2022.
 
   To build:
+  Clone (or download zip) this repo.
+  Add err.h and revstamp.h (from sd64/gplsrc) to folder containing winsdclilib.c source.
   Open Visual Studio 2022
   Select Open a project or solution.
   Locate the winsdclilib.sin file and open  
