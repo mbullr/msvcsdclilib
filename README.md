@@ -22,10 +22,10 @@
   
   This port was made with Visual Studio 2022.
 
-  To build:
-  Open Visual Studio 2022
-  Select Open a project or solution.
-  Locate the winsdclilib.sin file and open  
-  Select Build from the menu, then Build Solution 
+  To build:  
+      Open Visual Studio 2022  
+      Select Open a project or solution.  
+      Locate the winsdclilib.sin file and open    
+      Select Build from the menu, then Build Solution   
   
   This is a work in progress.......
